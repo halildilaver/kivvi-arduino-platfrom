@@ -1,4 +1,4 @@
-# kbpro-arduino-platfrom
+# kivvi-arduino-platfrom
 
 arduino-esp32 platform for DeveloopIDE. Collected a tools and libraries to compile
 arduino code in DeveloopIDE. For more information please kindly visit at kivvi.comt.tr
